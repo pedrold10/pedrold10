@@ -59,11 +59,9 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 -->
 
 ### GitHub Stats ⚡
-<div>
-<a href="https://github.com/pedrold10">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrold10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrold10&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+![Pedro Gabriel's GitHub stats]("https://github-readme-stats.vercel.app/api/top-langs/?username=pedrold10&layout=compact&langs_count=7&theme=dracula")
+![Pedro Gabriel's GitHub stats]("https://github-readme-stats.vercel.app/api?username=pedrold10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true")
 
 ### Entre em contato comigo! 📭
 <div>
