@@ -60,9 +60,9 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 
 ### GitHub Stats ⚡
 
-![[Pedro Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrold10)](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrold10&layout=compact&langs_count=7&theme=tokyonight)
-![[Pedro Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrold10)](https://github-readme-stats.vercel.app/api?username=pedrold10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
+![[Pedro Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrold10)](https://github-readme-stats.vercel.app/api?username=pedrold10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![[Pedro Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrold10)](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrold10&layout=compact&langs_count=7&theme=tokyonight)
 ### Entre em contato comigo! 📭
 <div>
 <a href="https://instagram.com/pedrodiniz.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
